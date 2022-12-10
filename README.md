@@ -7,7 +7,7 @@ SFML 2.5.1
 sudo apt install libsfml-dev
 ```
 
-## Compiling on linux
+## Compiling
 ```
 g++ main.cpp -l sfml-system -l sfml-graphics -l sfml-window -o Dodge-the-blobs
 ```
